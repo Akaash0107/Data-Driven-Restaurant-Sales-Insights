@@ -23,7 +23,7 @@ The project focuses on analyzing sales performance data using Power BI. Key insi
 - `Project Sales Data.xlsx`: Contains raw sales data, including columns for transaction date, product details, region, and sales revenue.
 
 ### 3. PowerPoint Presentation
-- `Sales Analysis Report.pptx`: A summary of the key findings and insights from the analysis, highlighting the most important metrics and trends identified during the analysis.
+- `Power_Bi_Assignment.pptx`: A summary of the key findings and insights from the analysis, highlighting the most important metrics and trends identified during the analysis.
 
 ---
 
@@ -59,6 +59,6 @@ The project focuses on analyzing sales performance data using Power BI. Key insi
 - **Regional Insights**: Region X outperforms others, while Region Y requires strategic focus for improvement.
 
 ## How to Run the Project
-1. Download the Power BI file `Sales Dashboard.pbix` and the raw data file `Project Sales Data.xlsx`.
+1. Download the Power BI file `Power_Bi_Assignment.pbix` and the raw data file `Project Sales Data.xlsx`.
 2. Open the Power BI file and refresh the data connection to view updated insights.
-3. Review the PowerPoint presentation `Sales Analysis Report.pptx` for a summary of key findings and recommendations.
+3. Review the PowerPoint presentation `Power_Bi_Assignment.pptx` for a summary of key findings and recommendations.
