@@ -2,6 +2,9 @@
 
 This project involves analyzing sales data to provide insights into sales trends and improve decision-making for future sales strategies. The analysis was done using Power BI, and a dashboard was created to visualize the findings.
 
+## Dashboard
+![Dashboard](https://github.com/Akaash0107/Data-Driven-Restaurant-Sales-Insights/blob/main/Data_Driven_Restaurant_Sales_Insights_Dashboard.png)
+
 ## Acknowledgment
 
 This project was completed in collaboration with **Anudip Foundation** as part of their training and development programs. Special thanks to **Khushbu Thakur** madam for her continuous support and guidance throughout the project.
